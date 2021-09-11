@@ -1,0 +1,28 @@
+h2{
+    color: blue;
+    font-size: 35px;
+}
+hr{
+    width: 50%;
+    border: 1px solid red;
+}
+h4{
+    color: red;
+    font-size: 22px;
+}
+p{
+    color: #fff;
+    font-size: 25px;
+}
+::placeholder{
+    color:blue;
+    padding-left: 2px;
+    font-size: 18px;
+}
+input{
+    padding: 8px;
+}
+button{
+    color: blue;
+    padding: 8px;
+}
